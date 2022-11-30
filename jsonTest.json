@@ -1,4 +1,11 @@
 { 
+    "AttandenceInfo": [
+    {
+      "AttendcaneNum":"21",
+      "TotalStaff":"31"
+    }
+  ],
+  
   "UserInfo":[
     {
       "UserId": "0",
