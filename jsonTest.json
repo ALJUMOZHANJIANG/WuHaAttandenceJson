@@ -1,0 +1,43 @@
+{
+  "AttandenceInfo": [
+    {
+      "AttendcaneNum":"21",
+      "TotalStaff":"31"
+    }
+  ],
+  
+  "UserInfo": [
+    {
+      "UserId": "0",
+      "FirstName":"Jonathan",
+      "SureName":"Bardwell",
+      "AttendanceTime":"08:50",
+      "MaxGold":"523",
+      "Team":"Red"      
+    },
+     {
+      "UserId": "1",
+      "FirstName":"Terry",
+      "SureName":"Smith",
+       "AttendanceTime":"08:51",
+      "MaxGold":"23",
+      "Team":"Blue"      
+    },
+     {
+      "UserId": "2",
+      "FirstName":"Emily",
+      "SureName":"Jones",
+      "AttendanceTime":"09:10",
+      "MaxGold":"1023",
+      "Team":"Red"      
+    },
+     {
+      "UserId": "3",
+      "FirstName":"Olivis",
+      "SureName":"Brown",
+       "AttendanceTime":"08:59",
+      "MaxGold":"53",
+      "Team":"Blue"     
+    }
+  ]
+}
